@@ -5,7 +5,8 @@ export const movieData = [
     rating:5,
     name:"Triple frontiere",
     date:"2019",
-    desc:"Action"
+    desc:"Action",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
     },
     {
     id: Math.random(),
@@ -13,7 +14,9 @@ export const movieData = [
     rating:4,
     name:"Spider-Man: Homecoming",
     date:"2017",
-    desc:"Action,comedy"
+    desc:"Action,comedy",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     {
     id: Math.random(),
@@ -21,7 +24,9 @@ export const movieData = [
     rating:5,
     name:"Mission impossible :Fallout",
     date:"2018",
-    desc:"Action"
+    desc:"Action",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     {
     id: Math.random(),
@@ -29,7 +34,9 @@ export const movieData = [
     rating:4,
     name:"World War Z",
     date:"2013",
-    desc:"Action,Thriller"
+    desc:"Action,Thriller",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     {
     id: Math.random(),
@@ -37,7 +44,9 @@ export const movieData = [
     rating:3,
     name:"The Witcher",
     date:"2017",
-    desc:"Fantasy"
+    desc:"Fantasy",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     {
     id: Math.random(),
@@ -45,7 +54,9 @@ export const movieData = [
     rating:4,
     name:"6 Underground",
     date:"2020",
-    desc:"Action"
+    desc:"Action",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     {
     id: Math.random(),
@@ -53,6 +64,8 @@ export const movieData = [
     rating:3,
     name:"Mosul",
     date:"2019",
-    desc:"War"
+    desc:"War",
+    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+
     },
     ];
