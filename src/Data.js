@@ -15,7 +15,7 @@ export const movieData = [
     name:"Spider-Man: Homecoming",
     date:"2017",
     desc:"Action,comedy",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/n9DwoQ7HWvI"
 
     },
     {
@@ -25,7 +25,7 @@ export const movieData = [
     name:"Mission impossible :Fallout",
     date:"2018",
     desc:"Action",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/wb49-oV0F78"
 
     },
     {
@@ -35,7 +35,7 @@ export const movieData = [
     name:"World War Z",
     date:"2013",
     desc:"Action,Thriller",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/4EC7P5WdUko"
 
     },
     {
@@ -45,7 +45,7 @@ export const movieData = [
     name:"The Witcher",
     date:"2017",
     desc:"Fantasy",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/ndl1W4ltcmg"
 
     },
     {
@@ -55,7 +55,7 @@ export const movieData = [
     name:"6 Underground",
     date:"2020",
     desc:"Action",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/YLE85olJjp8"
 
     },
     {
@@ -65,7 +65,7 @@ export const movieData = [
     name:"Mosul",
     date:"2019",
     desc:"War",
-    trailer:"https://www.youtube.com/embed/Fo3yRLLrXQA"
+    trailer:"https://www.youtube.com/embed/Z9bw8MGkB-A"
 
     },
     ];

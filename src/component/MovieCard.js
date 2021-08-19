@@ -11,7 +11,7 @@ const MovieCard = ({card}) => {
             <p>{card.date}</p>
             <Link to= {`/description/${card.name}
             `}>
-            <button className="button">See descreiption</button>
+            <button className="button">See description</button>
             </Link>
         </div>
     )
